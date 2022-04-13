@@ -11,5 +11,5 @@ Following are the steps to run the application:-
 7. Run the application as a Spring boot application.
 8. Now open VSCode to run front end and give the path of folder named as "frontEnd"
 9. Open Terminal and type command "npm install" this will download all required packages.
-10.After downloading packages , type command "npm start"
-11.It will start your application.
+10. After downloading packages , type command "npm start"
+11. It will start your application.
