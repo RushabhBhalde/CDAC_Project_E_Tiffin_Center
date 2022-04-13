@@ -2,7 +2,7 @@ CDAC Project:  "E_Tiffin_Center" web application developed using React, SpringBo
 
 Following are the steps to run the application:-
 
-1. First of all using "git clone" command clone this repository in you local repository.
+1. First of all using "git clone" command clone this repository in your local repository.
 2. After cloning open IDE tool and give path of backend folder in you IDE.
 3. Import "backend" folder as a existing maven project in your IDE.
 4. Check The application properties file in Resources folder and Change The port Number of SQL database according to your database configuration.
